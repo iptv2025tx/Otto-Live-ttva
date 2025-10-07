@@ -254,7 +254,7 @@ for name, link in live_tv_links:
         m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
 
     # Print the collected m3u8 URL
-    if m3u8_url:
+    if m3u8_urls:
         print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
         print(m3u8_url)  # Print only the first m3u8 URL
 
