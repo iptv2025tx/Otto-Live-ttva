@@ -245,8 +245,8 @@ for name, link in live_tv_links:
         m3u8_urls = [request["name"] for request in network_requests if ".m3u8" in request["name"]]
 
         # Print the collected m3u8 URLs
-        if m3u8_urls:
-            m3u8_url = m3u8_urls[0]
+        if m3u8_url:
+            m3u8_url = m3u8_url[0]
         else:
             m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
     except Exception as e:
