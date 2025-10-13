@@ -9,7 +9,7 @@ from webdriver_manager.core.os_manager import ChromeType
 import random
 import time
 import json
-
+import urllib.parse
 
 user_agents = [
     #add your list of user agents here
@@ -96,6 +96,7 @@ channel_logos = {
     "Lifetime": "https://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png",
     "LMN": "https://cdn.tvpassport.com/image/station/240x135/v2/s55887_h15_ag.png",
     "Logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s46762_h15_aa.png",
+    "MeTV Toons":"https://cdn.tvpassport.com/image/station/240x135/v2/s159817_h15_aa.png",
     "MLB Network": "https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png",
     "MoreMAX": "https://cdn.tvpassport.com/image/station/240x135/v2/s59373_h15_ad.png",
     "MotorTrend HD": "https://cdn.tvpassport.com/image/station/240x135/v2/s31046_h15_ab.png",
@@ -222,10 +223,10 @@ for name, link in live_tv_links:
         wait = WebDriverWait(driver, 5)
         #try:
             # Try to find loadVideoBtnOne first
-           # video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtn')))
+        #    video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtn')))
         #except:
             # If loadVideoBtnOne is not found, look for loadVideoBtnTwo
-           # video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnTwo')))
+        #    video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnTwo')))
         #video_button.click()
 
         # Wait for a brief period to allow the page to load and network requests to be made
@@ -244,7 +245,7 @@ for name, link in live_tv_links:
         # Filter out only the URLs containing ".m3u8"
         m3u8_urls = [request["name"] for request in network_requests if ".m3u8" in request["name"]]
 
-                cleaned_m3u8_urls = []
+        cleaned_m3u8_urls = []
 
         for url in m3u8_urls:
             if "ping.gif" in url and "mu=" in url:
@@ -266,7 +267,7 @@ for name, link in live_tv_links:
 
         # Use the cleaned list (which includes all original URLs if they didn't need cleaning)
         m3u8_urls = cleaned_m3u8_urls
-        
+
         # Print the collected m3u8 URLs
         if m3u8_urls:
             m3u8_url = m3u8_urls[0]
