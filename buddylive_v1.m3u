@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-10-14 01:15:48
+# Last Updated: 2025-10-14 02:59:05
 #EXTINF:-1 group-title="NHL",10/13/25 12:30:00 PM EST = Colorado Avalanche @ Buffalo Sabres
 https://v1.thetvapp.to/hls/NHL17/tracks-v1a1/mono.m3u8?token=NzqOi_9b5EruMcf0dL0z4A&expires=1760420910&user_id=d1V0ZkYySk9wQTN5SFZoQmIyTkpJNkhRcE01QkdiYlMwTUNWb1VTRw==
 #EXTINF:-1 group-title="NHL",10/13/25 01:00:00 PM EST = Winnipeg Jets @ New York Islanders
