@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-10-28 21:15:51
+# Last Updated: 2025-10-28 22:16:58
 #EXTINF:-1 group-title="NHL",10/28/25 06:00:00 PM EST = Calgary Flames @ Toronto Maple Leafs
 https://v4.thetvapp.to/hls/NHL02/tracks-v1a1/mono.m3u8?token=NbB_i_BaCw8Qzdfb210DYQ&expires=1761702476&user_id=ckJrdWNGeEFmMGpGY2loWGh4OUtiMWJ3WUp4Ujc1cjBTRlRVT1RkOQ==
 #EXTINF:-1 group-title="NHL",10/28/25 06:00:00 PM EST = Pittsburgh Penguins @ Philadelphia Flyers
