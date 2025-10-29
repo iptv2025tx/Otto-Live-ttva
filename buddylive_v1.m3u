@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-10-29 20:19:54
+# Last Updated: 2025-10-29 21:15:59
 #EXTINF:-1 group-title="NBA",10/29/25 06:40:00 PM EST = Houston Rockets @ Toronto Raptors
 https://e2.thetvapp.to/hls/NBA25/tracks-v1a1/mono.m3u8?token=CZ9XJgz4EciK5P-EtGP0kA&expires=1761788954&user_id=dk5EWllUREhhVVZ6UEZpUE1CdGRzcUdwc2praDU1N0xEdTNnaTBHOQ==
 #EXTINF:-1 group-title="NBA",10/29/25 07:10:00 PM EST = Cleveland Cavaliers @ Boston Celtics
