@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-02 16:18:37
+# Last Updated: 2025-11-02 17:13:41
 #EXTINF:-1 group-title="NFL",11/02/25 01:00:00 PM EST = San Francisco 49ers @ New York Giants
 https://v2.thetvapp.to/hls/NFL10/tracks-v1a1/mono.m3u8?token=BxDxmAQ_X-Ywi3jEPA6K7Q&expires=1762120057&user_id=cUh3ZHJJTDZYdjBhbHBCOXJxSU1vUUtJQ1dKOUZEQU1xOHd4ZW9iMw==
 #EXTINF:-1 group-title="NFL",11/02/25 01:00:00 PM EST = Los Angeles Chargers @ Tennessee Titans
