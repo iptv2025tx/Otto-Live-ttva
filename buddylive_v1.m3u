@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-05 03:09:54
+# Last Updated: 2025-11-05 04:20:58
 #EXTINF:-1 group-title="NHL",11/04/25 07:00:00 PM EST = Philadelphia Flyers @ Montréal Canadiens
 https://v14.thetvapp.to/hls/NHL21/tracks-v1a1/mono.m3u8?token=YGuL23UGuRjirTEprYcGnw&expires=1762321639&user_id=VGxjZE9ZQjlURmhqUzdhRXhhOG9GakwzektEWTJSMlpZUGNCRmxzTQ==
 #EXTINF:-1 group-title="NHL",11/04/25 07:00:00 PM EST = Carolina Hurricanes @ New York Rangers
