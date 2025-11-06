@@ -67,11 +67,11 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 
 ##  📺 (SPORTS)
 
-##  Website: https://ppv.zone/
+Website: https://ppv.zone
 💥 M3U: https://raw.githubusercontent.com/BuddyChewChew/ppv/refs/heads/main/PPVLand.m3u8
 
 
-##  Website:  https://pixelsport.tv/
+Website:  https://pixelsport.tv
 💥  M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Pixelsports.m3u8 
 
 
@@ -80,6 +80,7 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 ## GREAT EPG TO USE TO FILL HOLES
 
 XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+
 
 
 
