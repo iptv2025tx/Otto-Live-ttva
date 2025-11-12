@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-12 09:19:55
+# Last Updated: 2025-11-12 10:19:56
 #EXTINF:-1 group-title="NHL",11/11/25 07:10:00 PM EST = Los Angeles Kings @ Montréal Canadiens
 https://e3.thetvapp.to/hls/NHL29/tracks-v1a1/mono.m3u8?token=h2fxLvlXJgR2-GBQBNXDyQ&expires=1762955254&user_id=cVFEdkZLaGc5UFFnTjdVUXI3d2xXd2Y0dnBSR0d4OVN6a3VwdlFpRA==
 #EXTINF:-1 group-title="NHL",11/11/25 07:10:00 PM EST = Dallas Stars @ Ottawa Senators
