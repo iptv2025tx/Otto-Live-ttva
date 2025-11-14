@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-14 08:23:42
+# Last Updated: 2025-11-14 09:19:25
 #EXTINF:-1 group-title="NBA",11/13/25 07:10:00 PM EST = Toronto Raptors @ Cleveland Cavaliers
 https://v14.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=njE-ltM-3ApNVatKt8Jz0g&expires=1763128050&user_id=WGFHWE8xaDJYdUNBT1FmMUd2Q1I5MWI4dWF2eUppSzVrQnNKd1dYcA==
 #EXTINF:-1 group-title="NBA",11/13/25 09:10:00 PM EST = Atlanta Hawks @ Utah Jazz
