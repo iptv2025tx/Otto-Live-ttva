@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-16 16:19:40
+# Last Updated: 2025-11-16 17:14:01
 #EXTINF:-1 group-title="NHL",11/16/25 09:15:00 AM EST = Nashville Predators @ Pittsburgh Penguins
 https://v2.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=ST93R9fz4Lr2SpS_u1Wr3A&expires=1763329658&user_id=RFpSZHBIdU4wQ2s3UlRSOEM3aElMMjVQNnZuWHlETmJuWjBmN1F5RQ==
 #EXTINF:-1 group-title="NHL",11/16/25 05:10:00 PM EST = Vancouver Canucks @ Tampa Bay Lightning
