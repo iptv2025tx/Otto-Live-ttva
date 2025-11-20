@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-20 02:15:52
+# Last Updated: 2025-11-20 03:30:52
 #EXTINF:-1 group-title="NBA",11/19/25 07:00:00 PM EST = Charlotte Hornets @ Indiana Pacers
 https://v12.thetvapp.to/hls/NBA13/tracks-v1a1/mono.m3u8?token=r6lb9ZRL-2fhj32bAn7MeQ&expires=1763613112&user_id=VHdUZWVKdUxrVXg3NGhwaVZMTmRiaGdYaVFrMFBnNm12T0FsZDV3NA==
 #EXTINF:-1 group-title="NBA",11/19/25 07:00:00 PM EST = Houston Rockets @ Cleveland Cavaliers
