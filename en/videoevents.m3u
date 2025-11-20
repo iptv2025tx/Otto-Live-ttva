@@ -1,31 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA",11/19/25 07:00:00 PM EST = Charlotte Hornets @ Indiana Pacers
+#EXTINF:-1 group-title="NBA",11/20/25 07:10:00 PM EST = Los Angeles Clippers @ Orlando Magic
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 07:00:00 PM EST = Houston Rockets @ Cleveland Cavaliers
+#EXTINF:-1 group-title="NBA",11/20/25 08:10:00 PM EST = Philadelphia 76ers @ Milwaukee Bucks
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 07:00:00 PM EST = Toronto Raptors @ Philadelphia 76ers
+#EXTINF:-1 group-title="NBA",11/20/25 08:10:00 PM EST = Sacramento Kings @ Memphis Grizzlies
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 07:30:00 PM EST = Golden State Warriors @ Miami Heat
+#EXTINF:-1 group-title="NBA",11/20/25 08:10:00 PM EST = Atlanta Hawks @ San Antonio Spurs
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 08:00:00 PM EST = Denver Nuggets @ New Orleans Pelicans
+#EXTINF:-1 group-title="NHL",11/20/25 07:10:00 PM EST = St Louis Blues @ Philadelphia Flyers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 08:00:00 PM EST = Washington Wizards @ Minnesota Timberwolves
+#EXTINF:-1 group-title="NHL",11/20/25 07:10:00 PM EST = Columbus Blue Jackets @ Toronto Maple Leafs
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 08:00:00 PM EST = Sacramento Kings @ Oklahoma City Thunder
+#EXTINF:-1 group-title="NHL",11/20/25 07:10:00 PM EST = New York Islanders @ Detroit Red Wings
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 09:30:00 PM EST = New York Knicks @ Dallas Mavericks
+#EXTINF:-1 group-title="NHL",11/20/25 07:10:00 PM EST = New Jersey Devils @ Florida Panthers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/19/25 10:10:00 PM EST = Chicago Bulls @ Portland Trail Blazers
+#EXTINF:-1 group-title="NHL",11/20/25 07:10:00 PM EST = Washington Capitals @ Montréal Canadiens
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/19/25 07:00:00 PM EST = Edmonton Oilers @ Washington Capitals
+#EXTINF:-1 group-title="NHL",11/20/25 07:40:00 PM EST = Edmonton Oilers @ Tampa Bay Lightning
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/19/25 07:30:00 PM EST = Calgary Flames @ Buffalo Sabres
+#EXTINF:-1 group-title="NHL",11/20/25 08:10:00 PM EST = Seattle Kraken @ Chicago Blackhawks
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/19/25 09:30:00 PM EST = Carolina Hurricanes @ Minnesota Wild
+#EXTINF:-1 group-title="NHL",11/20/25 09:10:00 PM EST = New York Rangers @ Colorado Avalanche
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/19/25 10:00:00 PM EST = Boston Bruins @ Anaheim Ducks
+#EXTINF:-1 group-title="NHL",11/20/25 09:10:00 PM EST = Vegas Golden Knights @ Utah Mammoth
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NCAAF",11/19/25 07:00:00 PM EST = Miami (OH) RedHawks @ Buffalo Bulls
+#EXTINF:-1 group-title="NHL",11/20/25 10:10:00 PM EST = Ottawa Senators @ Anaheim Ducks
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NCAAF",11/19/25 07:00:00 PM EST = Central Michigan Chippewas @ Kent State Golden Flashes
+#EXTINF:-1 group-title="NHL",11/20/25 10:10:00 PM EST = Dallas Stars @ Vancouver Canucks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",11/20/25 10:10:00 PM EST = Los Angeles Kings @ San Jose Sharks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF",11/20/25 07:30:00 PM EST = Louisiana Ragin Cajuns @ Arkansas State Red Wolves
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NFL",11/20/25 08:15:00 PM EST = Buffalo Bills @ Houston Texans
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
