@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-24 02:27:07
+# Last Updated: 2025-11-24 03:44:14
 #EXTINF:-1 group-title="NFL",11/23/25 01:00:00 PM EST = Seattle Seahawks @ Tennessee Titans
 https://e3.thetvapp.to/hls/NFL07/tracks-v1a1/mono.m3u8?token=vwV4euHr45oYaibDf9CLsg&expires=1763958801&user_id=bnJkeTBabWladDVpRFhjTjNYSHBvVjE1c2pMdmd0cU1xY1FzZDNjeg==
 #EXTINF:-1 group-title="NFL",11/23/25 01:00:00 PM EST = Indianapolis Colts @ Kansas City Chiefs
