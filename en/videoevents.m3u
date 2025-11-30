@@ -26,7 +26,7 @@ https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NCAAF",11/29/25 01:00:00 PM EST = UTEP Miners @ Delaware Blue Hens
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NCAAF",11/29/25 01:00:00 PM EST = Florida International Panthers @ Sam Houston State Bearkats
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+https://v4.thetvapp.to/hls/NCAAF04/tracks-v1a1/mono.m3u8?token=45JsKEPxclbS4mZmN1qw1Q&expires=1764499659&user_id=dU9LNlk4VXIyS0E2cU1tNkptTVpldHh6MkJjSlZXQ05CVHZoTjIyTw==
 #EXTINF:-1 group-title="NCAAF",11/29/25 01:30:00 PM EST = Georgia Southern Eagles @ Marshall Thundering Herd
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NCAAF",11/29/25 02:00:00 PM EST = Georgia State Panthers @ Old Dominion Monarchs
@@ -107,21 +107,21 @@ https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",11/29/25 04:10:00 PM EST = Edmonton Oilers @ Seattle Kraken
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/29/25 07:10:00 PM EST = Toronto Maple Leafs @ Pittsburgh Penguins
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",11/29/25 07:10:00 PM EST = Philadelphia Flyers @ New Jersey Devils
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",11/29/25 07:10:00 PM EST = Winnipeg Jets @ Nashville Predators
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",11/29/25 07:10:00 PM EST = Detroit Red Wings @ Boston Bruins
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/29/25 08:10:00 PM EST = Buffalo Sabres @ Minnesota Wild
+#EXTINF:-1 group-title="NHL",11/29/25 07:10:00 PM EST = Toronto Maple Leafs @ Pittsburgh Penguins
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",11/29/25 08:10:00 PM EST = Utah Mammoth @ St Louis Blues
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/29/25 10:10:00 PM EST = Vancouver Canucks @ Los Angeles Kings
+#EXTINF:-1 group-title="NHL",11/29/25 08:10:00 PM EST = Buffalo Sabres @ Minnesota Wild
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",11/29/25 10:10:00 PM EST = San Jose Sharks @ Vegas Golden Knights
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",11/29/25 10:10:00 PM EST = Vancouver Canucks @ Los Angeles Kings
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",11/29/25 05:10:00 PM EST = Boston Celtics @ Minnesota Timberwolves
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
@@ -129,13 +129,15 @@ https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",11/29/25 07:40:00 PM EST = Chicago Bulls @ Indiana Pacers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/29/25 08:10:00 PM EST = Detroit Pistons @ Miami Heat
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",11/29/25 08:10:00 PM EST = Brooklyn Nets @ Milwaukee Bucks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",11/29/25 08:10:00 PM EST = Detroit Pistons @ Miami Heat
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",11/29/25 08:40:00 PM EST = New Orleans Pelicans @ Golden State Warriors
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",11/29/25 09:10:00 PM EST = Denver Nuggets @ Phoenix Suns
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",11/29/25 10:10:00 PM EST = Dallas Mavericks @ Los Angeles Clippers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="PPV",11/29/25 07:00:00 PM EST = WWE Survivor Series WarGames 2025
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
