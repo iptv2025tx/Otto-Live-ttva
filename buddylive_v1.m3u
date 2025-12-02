@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-12-02 18:54:07
+# Last Updated: 2025-12-02 19:38:03
 #EXTINF:-1 group-title="NBA",12/02/25 07:10:00 PM EST = Washington Wizards @ Philadelphia 76ers
 https://e4.thetvapp.to/hls/NBA20/tracks-v1a1/mono.m3u8?token=3SacuJ0zU8IvUdhujbhZVg&expires=1764715513&user_id=cW5oOXdlZTBhS3JHdkhXaDdxclhOcVZGR0F4Qno2dVM5WDNGQ2Facw==
 #EXTINF:-1 group-title="NBA",12/02/25 07:40:00 PM EST = Portland Trail Blazers @ Toronto Raptors
