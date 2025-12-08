@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-12-07 23:36:12
+# Last Updated: 2025-12-08 02:23:43
 #EXTINF:-1 group-title="NBA",12/07/25 12:10:00 PM EST = Orlando Magic @ New York Knicks
 https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=Cm8Gr5D31DL5FY9SaMbAaQ&expires=1765168247&user_id=dUs0T3BRYk9VUG5HUUsySVl1c2wxN3JacVN1Yko2UXViY2c5UEFwVw==
 #EXTINF:-1 group-title="NBA",12/07/25 03:40:00 PM EST = Boston Celtics @ Toronto Raptors
