@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-12-10 17:45:17
+# Last Updated: 2025-12-10 18:51:27
 #EXTINF:-1 group-title="NBA",12/10/25 07:30:00 PM EST = Phoenix Suns @ Oklahoma City Thunder
 https://v16.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=AuY3hHB-O4E5qVVUqBgFbg&expires=1765406584&user_id=YnV5TWpRb0ZqajJEWm1ydlVCczdPVWZCSVRRZnFvVU9kbmRldUxEQg==
 #EXTINF:-1 group-title="NBA",12/10/25 10:00:00 PM EST = San Antonio Spurs @ Los Angeles Lakers
