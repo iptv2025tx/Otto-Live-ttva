@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-12-16 23:38:50
+# Last Updated: 2025-12-17 02:22:16
 #EXTINF:-1 group-title="NHL",12/16/25 07:10:00 PM EST = Anaheim Ducks @ Columbus Blue Jackets
 https://v16.thetvapp.to/hls/NHL24/tracks-v1a1/mono.m3u8?token=2vV9iMvStuBgog0ZOw3VDg&expires=1765945961&user_id=dm9SWmh0d0I5WThKakxacUE5Rml5S2ZMdGVCcnY3QlJnZEp0ZUU0bQ==
 #EXTINF:-1 group-title="NHL",12/16/25 07:10:00 PM EST = Utah Mammoth @ Boston Bruins
