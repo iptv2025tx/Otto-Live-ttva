@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-08 07:43:11
+# Last Updated: 2026-01-08 08:52:55
 #EXTINF:-1 group-title="NHL",01/07/26 07:00:00 PM EST = Dallas Stars @ Washington Capitals
 https://v3.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=oyuDmGhbUgiHD-vrLvCUsg&expires=1767869416&user_id=ZVdCSDhEdW93MWZzdlpRZERYejBoRXByTVBSN3VINWphTkRjdmRONQ==
 #EXTINF:-1 group-title="NHL",01/07/26 07:30:00 PM EST = Calgary Flames @ Montréal Canadiens
