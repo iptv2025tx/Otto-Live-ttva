@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-09 17:45:35
+# Last Updated: 2026-01-09 18:53:55
 #EXTINF:-1 group-title="NBA",01/09/26 07:10:00 PM EST = Toronto Raptors @ Boston Celtics
 https://v3.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=WEyLma9IA75v8tzSUPS4qg&expires=1767998680&user_id=cDhjWHBBSGdsYlN0eFFhdEZkWEQ3QnNvUjhZS3NCaWlGcVJMZHJOeg==
 #EXTINF:-1 group-title="NBA",01/09/26 07:10:00 PM EST = New Orleans Pelicans @ Washington Wizards
