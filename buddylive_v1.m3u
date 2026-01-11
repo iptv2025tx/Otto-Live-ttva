@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-11 18:49:18
+# Last Updated: 2026-01-11 19:35:43
 #EXTINF:-1 group-title="NFL",01/11/26 01:00:00 PM EST = Buffalo Bills @ Jacksonville Jaguars
 https://v15.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=7wXvQ8oULCksIRrLwvPXOg&expires=1768171067&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
 #EXTINF:-1 group-title="NFL",01/11/26 04:30:00 PM EST = San Francisco 49ers @ Philadelphia Eagles
