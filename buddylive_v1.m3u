@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-11 05:46:20
+# Last Updated: 2026-01-11 06:52:59
 #EXTINF:-1 group-title="NBA",01/10/26 01:10:00 PM EST = Minnesota Timberwolves @ Cleveland Cavaliers
 https://v16.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=rrWnd_Qj_HriSGgZ2s0YbQ&expires=1768128955&user_id=TzlFQXpTN1J6TzdZYlptSmlkdURpZHJtWkRqNWVqSFhGMWJWZjF2eA==
 #EXTINF:-1 group-title="NBA",01/10/26 07:10:00 PM EST = Miami Heat @ Indiana Pacers
