@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-12 20:44:46
+# Last Updated: 2026-01-12 21:40:51
 #EXTINF:-1 group-title="NBA",01/12/26 07:10:00 PM EST = Utah Jazz @ Cleveland Cavaliers
 https://v18.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=SYWKZiSiBjBl2J_ZCStkcg&expires=1768257799&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
 #EXTINF:-1 group-title="NBA",01/12/26 07:40:00 PM EST = Boston Celtics @ Indiana Pacers
