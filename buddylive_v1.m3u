@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-15 23:40:19
+# Last Updated: 2026-01-16 02:32:19
 #EXTINF:-1 group-title="NBA",01/15/26 02:10:00 PM EST = Memphis Grizzlies @ Orlando Magic
 https://v15.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=DTXv-y2MdHbPbc8Qy2ivaw&expires=1768538162&user_id=WWJXZ0VjZVB3U2g3N2ZtVlU5S21taXhxdUNCeER3QUZwajZ2V1AycQ==
 #EXTINF:-1 group-title="NBA",01/15/26 07:10:00 PM EST = Phoenix Suns @ Detroit Pistons
