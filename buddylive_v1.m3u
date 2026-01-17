@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-16 23:40:20
+# Last Updated: 2026-01-17 02:24:56
 #EXTINF:-1 group-title="NBA",01/16/26 07:10:00 PM EST = Cleveland Cavaliers @ Philadelphia 76ers
 https://v15.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=WCXIaniYxFVEvy2FktADkA&expires=1768624522&user_id=TFpvR2lRdUdXSnNxbExsWG1TM3V3ZHRqb0RTaDdPMUhiRnhDT1FtQw==
 #EXTINF:-1 group-title="NBA",01/16/26 07:10:00 PM EST = New Orleans Pelicans @ Indiana Pacers
