@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-18 05:44:46
+# Last Updated: 2026-01-18 06:52:29
 #EXTINF:-1 group-title="NHL",01/17/26 12:30:00 PM EST = Minnesota Wild @ Buffalo Sabres
 https://v4.thetvapp.to/hls/NHL11/tracks-v1a1/mono.m3u8?token=YCZBerrTNXBq312FOykY_g&expires=1768733462&user_id=UTBBRzNxeE5iUXFYemhOOXpzS2hyZXlFSWpRdkpYaFdJUkZmZmFESg==
 #EXTINF:-1 group-title="NHL",01/17/26 01:00:00 PM EST = New York Rangers @ Philadelphia Flyers
