@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-19 17:46:14
+# Last Updated: 2026-01-19 18:54:25
 #EXTINF:-1 group-title="NBA",01/19/26 01:10:00 PM EST = Milwaukee Bucks @ Atlanta Hawks
 https://v4.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=X7DBH-0oXAkP2pjLEPU78g&expires=1768862811&user_id=TnBNdUVaSVN6QTA0OU0wQ0pVMFVhdDNJV3RNT0NNWE8wU0V0aklOeA==
 #EXTINF:-1 group-title="NBA",01/19/26 02:40:00 PM EST = Oklahoma City Thunder @ Cleveland Cavaliers
