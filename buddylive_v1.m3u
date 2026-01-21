@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-21 05:50:37
+# Last Updated: 2026-01-21 07:00:06
 #EXTINF:-1 group-title="NBA",01/20/26 07:10:00 PM EST = Phoenix Suns @ Philadelphia 76ers
 https://v13.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=1LpMccZPjgk2g1RKEjb7nA&expires=1768992869&user_id=U2FMaEhoSjRMT3NTTEhBV1BVang1YjdmaVRxZzVTSWhhZ1hQYUJuMg==
 #EXTINF:-1 group-title="NBA",01/20/26 08:10:00 PM EST = Los Angeles Clippers @ Chicago Bulls
