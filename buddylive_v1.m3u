@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-22 07:47:14
+# Last Updated: 2026-01-22 08:56:52
 #EXTINF:-1 group-title="NHL",01/21/26 07:00:00 PM EST = Detroit Red Wings @ Toronto Maple Leafs
 https://v13.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=ZC6b5SaAIlkqftA2WYhgXQ&expires=1769079455&user_id=TlJUYTZsTDFjZVhrTG1yZEwweTV6SjFlVlJ0eUdwejhLMnJEUjlqRw==
 #EXTINF:-1 group-title="NHL",01/21/26 09:00:00 PM EST = Anaheim Ducks @ Colorado Avalanche
