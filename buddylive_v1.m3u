@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-24 07:38:43
+# Last Updated: 2026-01-24 08:47:46
 #EXTINF:-1 group-title="NBA",01/23/26 07:10:00 PM EST = Houston Rockets @ Detroit Pistons
 https://v15.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=iHNWrGLwpAcn3BCEZWQBIg&expires=1769251569&user_id=ajdKVE5NZU5QUUtaRWc3c0xCaktQTFliZU5ZWG84T0hiZlpBRzJycg==
 #EXTINF:-1 group-title="NBA",01/23/26 07:40:00 PM EST = Phoenix Suns @ Atlanta Hawks
