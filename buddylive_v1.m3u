@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-25 07:40:14
+# Last Updated: 2026-01-25 08:47:51
 #EXTINF:-1 group-title="NBA",01/24/26 12:10:00 PM EST = Washington Wizards @ Charlotte Hornets
 https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=BFto9ctCAugkVhSluNUNBw&expires=1769338729&user_id=QmdQalM5NkxLZml5WmUxNG5rVzNVaEdDTkYwWktsUHN6aDdtSVEwVg==
 #EXTINF:-1 group-title="NBA",01/24/26 03:10:00 PM EST = New York Knicks @ Philadelphia 76ers
