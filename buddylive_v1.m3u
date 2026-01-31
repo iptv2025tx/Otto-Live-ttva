@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-30 23:46:20
+# Last Updated: 2026-01-31 03:04:49
 #EXTINF:-1 group-title="NBA",01/30/26 07:10:00 PM EST = Los Angeles Lakers @ Washington Wizards
 https://v3.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=4TdwFXR3zD81RFGP1kWL1Q&expires=1769834647&user_id=ZGlEakdzUHQxSnlzZmNkcWdUbndFUHgzYjJqU05WbmFwTTZEMGlsTw==
 #EXTINF:-1 group-title="NBA",01/30/26 07:40:00 PM EST = Sacramento Kings @ Boston Celtics
