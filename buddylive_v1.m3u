@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-02-01 17:48:47
+# Last Updated: 2026-02-01 18:59:06
 #EXTINF:-1 group-title="NHL",02/01/26 03:10:00 PM EST = Los Angeles Kings @ Carolina Hurricanes
 https://v17.thetvapp.to/hls/NHL04/tracks-v1a1/mono.m3u8?token=4kIvwVbQPjuDFIFSr4zzsQ&expires=1769986034&user_id=dTFRaDdRWXNmM2lHQUhYclN0V2UxdEc3cGRBdTF3blBDaUNHSVEweQ==
 #EXTINF:-1 group-title="NHL",02/01/26 06:40:00 PM EST = Boston Bruins @ Tampa Bay Lightning
